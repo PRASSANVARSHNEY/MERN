@@ -1,2 +1,2 @@
 # MERN 
-Learn about MERN
+Learn about MERN technology
