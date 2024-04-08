@@ -1,0 +1,94 @@
+/* .parent{
+    padding:0;
+    margin:0%;
+    box-sizing: border-box;
+
+}
+body{
+     min-height:100vh;
+    min-width:100vw; 
+    background-color: aquamarine;
+    
+} 
+.parent{
+    background-color: yellow;
+    height: 10px;
+    width: 100px;
+    position: fixed;
+    top:0px;
+    left:100px;
+    
+} */
+/* sticky for navbars scrolling */
+/* transition property */
+/* pseudo classes 
+pseudo elements*/
+/* Animations */
+/* h1{
+    position: sticky;
+    top:10px;
+    text-align: center;
+    color:blanchedalmond;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+section{
+    text-align: center;
+    border: 1px solid red;
+    padding:16px;
+}
+body{
+    background-color: black;
+    color:bisque;
+
+}
+@media(800px <= width)
+{
+    .parent{
+        background-color: blueviolet;
+        width:800px;
+    }
+} */
+/* button{
+    position:absolute;
+    top:50%;
+    left:50%;
+    padding: 8px 16px;
+    border:none;
+    border-radius: 8px;
+    transition-property: scale;
+    transition-duration: 300s;
+    transition-timing-function: ease-in-out;
+}
+button:hover{
+    background-color: blueviolet;
+    cursor:pointer;
+    font-size: 3rem;
+} */
+/* button{
+    scale:2;
+    position:absolute;
+    top: 20px;
+    left: 40px;
+    animation-name: button-animation-type-1;
+    animation-duration: 4s;
+    animation-timing-function: linear;
+    animation-iteration-count: 3;
+}
+
+@keyframes button-animation-type-1{
+    from{
+        top:20px;
+        left:40px;
+    }
+    25%{
+        top:20px;
+        left:40px;
+    }
+     
+    100%{
+        top:400px;
+        left:500px;
+    }
+} */
+/* visibility:none display:inner */

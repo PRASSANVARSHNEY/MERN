@@ -1,0 +1,23 @@
+#welcome{
+    text-align: center;
+    background-color: rgb(208, 218, 18);
+    height: 50%;
+    width: 100%;
+    font-size: 50px;
+    
+}
+#hub{
+    text-align:center;
+    background-color: black;
+    height:300%;
+    width:100%;
+    color:rgb(203, 224, 17);
+    font-size: 100px ;
+    
+}
+.image{
+    height: 40%;
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+}
